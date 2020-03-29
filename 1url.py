@@ -39,7 +39,7 @@ def main(page):
         write_to_file(item)
 
 if __name__ == '__main__':
-    last_page = 1
+    last_page = 852
     # http://www.allitebooks.com/page/852/ , last page of today
     for i in range(1, last_page + 1):
         main(page = i)
