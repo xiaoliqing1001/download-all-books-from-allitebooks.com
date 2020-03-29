@@ -1,4 +1,4 @@
-# Download all books from allitebooks.com
+# Download all ebooks from allitebooks.com
 
 **step 1**  
 python 1url.py  
